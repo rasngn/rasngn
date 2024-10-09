@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Uploading compressed ver.jpg…]()
+
+![compressed ver](https://github.com/user-attachments/assets/f8542131-3a39-45af-bf01-ae7a2b05f022)
 
 
 
