@@ -11,7 +11,8 @@ rasngn/rasngn is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![90a](https://github.com/user-attachments/assets/bf825357-c617-46e7-acdf-c060ce96ee90)
+
+![Uploading compressed ver.jpg…]()
 
 
 
