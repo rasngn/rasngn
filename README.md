@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasngn
 - 👀 I’m interested in open source 
-- 🌱 I’m currently learning JS and backend
+- 🌱 I’m currently learning JS and Dapp development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - birdsniper09 discord
 - 😄 Pronouns: Neo/The One
